@@ -1,0 +1,13 @@
+.footer-hradline{
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+.footer-list{
+    display: flex;
+    list-style: none;
+    gap: 23px;
+    align-items: center;
+    text-align: center;
+    
+}
